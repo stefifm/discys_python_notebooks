@@ -1,21 +1,21 @@
-name,currency,currency_name,region,capital,temperatures,windspeeds,currency_group
-Argentina,$,Argentine peso,Americas,Buenos Aires,25.2,16.0,Pesos
-Colombia,$,Colombian peso,Americas,Bogotá,31.1,20.6,Pesos
-Brazil,R$,Brazilian real,Americas,Brasília,30.5,5.2,Otros
-Peru,S/ ,Peruvian sol,Americas,Lima,12.3,11.5,Otros
-Chile,$,Chilean peso,Americas,Santiago,25.4,15.1,Pesos
-Ecuador,$,United States dollar,Americas,Quito,30.2,13.8,Dólares
-Bolivia,Bs.,Bolivian boliviano,Americas,Sucre,15.2,6.6,Otros
-Paraguay,₲,Paraguayan guaraní,Americas,Asunción,34.5,4.9,Otros
-Uruguay,$,Uruguayan peso,Americas,Montevideo,37.5,10.5,Pesos
-Venezuela,Bs.S.,Venezuelan bolívar soberano,Americas,Caracas,33.5,27.9,Otros
-France,€,Euro,Europe,Paris,6.0,16.4,Euros
-Germany,€,Euro,Europe,Berlin,-0.4,23.1,Euros
-Italy,€,Euro,Europe,Rome,6.7,1.5,Euros
-Spain,€,Euro,Europe,Madrid,9.9,6.5,Euros
-Portugal,€,Euro,Europe,Lisbon,12.5,11.1,Euros
-Caribbean Netherlands,$,United States dollar,Americas,Kralendijk,26.2,33.7,Dólares
-Belgium,€,Euro,Europe,Brussels,8.8,20.2,Euros
-Switzerland,Fr.,Swiss franc,Europe,Bern,0.2,5.4,Otros
-Austria,€,Euro,Europe,Vienna,0.1,1.3,Euros
-Greece,€,Euro,Europe,Athens,8.6,5.0,Euros
+name,currency,currency_name,region,capital,temperatures,windspeeds
+Argentina,$,Argentine peso,Americas,Buenos Aires,21.4,13.8
+Colombia,$,Colombian peso,Americas,Bogotá,29.3,14.8
+Brazil,R$,Brazilian real,Americas,Brasília,30.1,5.9
+Peru,S/ ,Peruvian sol,Americas,Lima,12.8,8.4
+Chile,$,Chilean peso,Americas,Santiago,24.0,12.2
+Ecuador,$,United States dollar,Americas,Quito,28.9,7.1
+Bolivia,Bs.,Bolivian boliviano,Americas,Sucre,17.2,6.8
+Paraguay,₲,Paraguayan guaraní,Americas,Asunción,32.9,7.9
+Uruguay,$,Uruguayan peso,Americas,Montevideo,36.3,21.1
+Venezuela,Bs.S.,Venezuelan bolívar soberano,Americas,Caracas,30.3,31.3
+France,€,Euro,Europe,Paris,10.9,16.0
+Germany,€,Euro,Europe,Berlin,-0.0,7.2
+Italy,€,Euro,Europe,Rome,7.5,6.9
+Spain,€,Euro,Europe,Madrid,12.6,37.5
+Portugal,€,Euro,Europe,Lisbon,13.2,23.8
+Caribbean Netherlands,$,United States dollar,Americas,Kralendijk,26.4,33.7
+Belgium,€,Euro,Europe,Brussels,7.8,12.2
+Switzerland,Fr.,Swiss franc,Europe,Bern,3.3,1.3
+Austria,€,Euro,Europe,Vienna,1.7,0.7
+Greece,€,Euro,Europe,Athens,9.7,2.1
