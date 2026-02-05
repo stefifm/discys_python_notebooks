@@ -5,9 +5,8 @@
     "currency_name":"Argentine peso",
     "region":"Americas",
     "capital":"Buenos Aires",
-    "temperatures":25.2,
-    "windspeeds":16.0,
-    "currency_group":"Pesos"
+    "temperatures":21.4,
+    "windspeeds":13.8
   },
   {
     "name":"Colombia",
@@ -15,9 +14,8 @@
     "currency_name":"Colombian peso",
     "region":"Americas",
     "capital":"Bogotá",
-    "temperatures":31.1,
-    "windspeeds":20.6,
-    "currency_group":"Pesos"
+    "temperatures":29.3,
+    "windspeeds":14.8
   },
   {
     "name":"Brazil",
@@ -25,9 +23,8 @@
     "currency_name":"Brazilian real",
     "region":"Americas",
     "capital":"Brasília",
-    "temperatures":30.5,
-    "windspeeds":5.2,
-    "currency_group":"Otros"
+    "temperatures":30.1,
+    "windspeeds":5.9
   },
   {
     "name":"Peru",
@@ -35,9 +32,8 @@
     "currency_name":"Peruvian sol",
     "region":"Americas",
     "capital":"Lima",
-    "temperatures":12.3,
-    "windspeeds":11.5,
-    "currency_group":"Otros"
+    "temperatures":12.8,
+    "windspeeds":8.4
   },
   {
     "name":"Chile",
@@ -45,9 +41,8 @@
     "currency_name":"Chilean peso",
     "region":"Americas",
     "capital":"Santiago",
-    "temperatures":25.4,
-    "windspeeds":15.1,
-    "currency_group":"Pesos"
+    "temperatures":24.0,
+    "windspeeds":12.2
   },
   {
     "name":"Ecuador",
@@ -55,9 +50,8 @@
     "currency_name":"United States dollar",
     "region":"Americas",
     "capital":"Quito",
-    "temperatures":30.2,
-    "windspeeds":13.8,
-    "currency_group":"Dólares"
+    "temperatures":28.9,
+    "windspeeds":7.1
   },
   {
     "name":"Bolivia",
@@ -65,9 +59,8 @@
     "currency_name":"Bolivian boliviano",
     "region":"Americas",
     "capital":"Sucre",
-    "temperatures":15.2,
-    "windspeeds":6.6,
-    "currency_group":"Otros"
+    "temperatures":17.2,
+    "windspeeds":6.8
   },
   {
     "name":"Paraguay",
@@ -75,9 +68,8 @@
     "currency_name":"Paraguayan guaraní",
     "region":"Americas",
     "capital":"Asunción",
-    "temperatures":34.5,
-    "windspeeds":4.9,
-    "currency_group":"Otros"
+    "temperatures":32.9,
+    "windspeeds":7.9
   },
   {
     "name":"Uruguay",
@@ -85,9 +77,8 @@
     "currency_name":"Uruguayan peso",
     "region":"Americas",
     "capital":"Montevideo",
-    "temperatures":37.5,
-    "windspeeds":10.5,
-    "currency_group":"Pesos"
+    "temperatures":36.3,
+    "windspeeds":21.1
   },
   {
     "name":"Venezuela",
@@ -95,9 +86,8 @@
     "currency_name":"Venezuelan bolívar soberano",
     "region":"Americas",
     "capital":"Caracas",
-    "temperatures":33.5,
-    "windspeeds":27.9,
-    "currency_group":"Otros"
+    "temperatures":30.3,
+    "windspeeds":31.3
   },
   {
     "name":"France",
@@ -105,9 +95,8 @@
     "currency_name":"Euro",
     "region":"Europe",
     "capital":"Paris",
-    "temperatures":6.0,
-    "windspeeds":16.4,
-    "currency_group":"Euros"
+    "temperatures":10.9,
+    "windspeeds":16.0
   },
   {
     "name":"Germany",
@@ -115,9 +104,8 @@
     "currency_name":"Euro",
     "region":"Europe",
     "capital":"Berlin",
-    "temperatures":-0.4,
-    "windspeeds":23.1,
-    "currency_group":"Euros"
+    "temperatures":0.0,
+    "windspeeds":7.2
   },
   {
     "name":"Italy",
@@ -125,9 +113,8 @@
     "currency_name":"Euro",
     "region":"Europe",
     "capital":"Rome",
-    "temperatures":6.7,
-    "windspeeds":1.5,
-    "currency_group":"Euros"
+    "temperatures":7.5,
+    "windspeeds":6.9
   },
   {
     "name":"Spain",
@@ -135,9 +122,8 @@
     "currency_name":"Euro",
     "region":"Europe",
     "capital":"Madrid",
-    "temperatures":9.9,
-    "windspeeds":6.5,
-    "currency_group":"Euros"
+    "temperatures":12.6,
+    "windspeeds":37.5
   },
   {
     "name":"Portugal",
@@ -145,9 +131,8 @@
     "currency_name":"Euro",
     "region":"Europe",
     "capital":"Lisbon",
-    "temperatures":12.5,
-    "windspeeds":11.1,
-    "currency_group":"Euros"
+    "temperatures":13.2,
+    "windspeeds":23.8
   },
   {
     "name":"Caribbean Netherlands",
@@ -155,9 +140,8 @@
     "currency_name":"United States dollar",
     "region":"Americas",
     "capital":"Kralendijk",
-    "temperatures":26.2,
-    "windspeeds":33.7,
-    "currency_group":"Dólares"
+    "temperatures":26.4,
+    "windspeeds":33.7
   },
   {
     "name":"Belgium",
@@ -165,9 +149,8 @@
     "currency_name":"Euro",
     "region":"Europe",
     "capital":"Brussels",
-    "temperatures":8.8,
-    "windspeeds":20.2,
-    "currency_group":"Euros"
+    "temperatures":7.8,
+    "windspeeds":12.2
   },
   {
     "name":"Switzerland",
@@ -175,9 +158,8 @@
     "currency_name":"Swiss franc",
     "region":"Europe",
     "capital":"Bern",
-    "temperatures":0.2,
-    "windspeeds":5.4,
-    "currency_group":"Otros"
+    "temperatures":3.3,
+    "windspeeds":1.3
   },
   {
     "name":"Austria",
@@ -185,9 +167,8 @@
     "currency_name":"Euro",
     "region":"Europe",
     "capital":"Vienna",
-    "temperatures":0.1,
-    "windspeeds":1.3,
-    "currency_group":"Euros"
+    "temperatures":1.7,
+    "windspeeds":0.7
   },
   {
     "name":"Greece",
@@ -195,8 +176,7 @@
     "currency_name":"Euro",
     "region":"Europe",
     "capital":"Athens",
-    "temperatures":8.6,
-    "windspeeds":5.0,
-    "currency_group":"Euros"
+    "temperatures":9.7,
+    "windspeeds":2.1
   }
 ]
